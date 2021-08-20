@@ -1,6 +1,6 @@
 [submodule "FoxOS-kernel"]
 	path = FoxOS-kernel
-	url = https://github.com/TheUltimateFoxOS/FoxOS-kernel
+	url = https://github.com/LipkeGu1810/FoxOS-kernel
 [submodule "FoxOS-programs"]
 	path = FoxOS-programs
-	url = https://github.com/TheUltimateFoxOS/FoxOS-programs
+	url = https://github.com/LipkeGu1810/FoxOS-programs
